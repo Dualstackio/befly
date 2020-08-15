@@ -1,9 +1,10 @@
 <!-- PLEASE READ THE FOLLOWING INSTRUCTIONS -->
 
 <!-- Choose one of the following: -->
-This is about **Bulma | the Docs**.
 
-<!-- Is it about Bulma or about the Docs? -->
+This is about **Befly | the Docs**.
+
+<!-- Is it about Befly or about the Docs? -->
 <!-- Is it a bug/feature/question or do you need help? -->
 <!-- If it's a bug, is it a browser bug? -->
 
@@ -11,9 +12,9 @@ This is about **Bulma | the Docs**.
 
 <!-- UNCOMMENT THE APPROPRIATE LINES -->
 
-<!-- This is about the Bulma **CSS framework** -->
-<!-- This is about the Bulma **Docs** -->
-<!-- I'm using Bulma **version** [x.x.x] -->
+<!-- This is about the Befly **CSS framework** -->
+<!-- This is about the Befly **Docs** -->
+<!-- I'm using Befly **version** [x.x.x] -->
 <!-- My **browser** is: -->
 <!-- This is a **Sass** issue: I'm using version [x.x.x] -->
 <!-- I am sure this issue is **not a duplicate**? -->

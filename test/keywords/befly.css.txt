@@ -1,10 +1,10 @@
-\* Bulma Base \*
+\* Befly Base \*
 minireset.css
 html
 article
 aside
 
-\* Bulma Components \*
+\* Befly Components \*
 .breadcrumb
 .card
 .dropdown
@@ -20,7 +20,7 @@ aside
 .panel
 .tabs
 
-\* Bulma Elements \*
+\* Befly Elements \*
 .box
 .button
 .button.is-primary
@@ -38,7 +38,7 @@ aside
 .tag:not(body).is-primary
 .title
 
-\* Bulma Form \*
+\* Befly Form \*
 .checkbox
 .radio
 .file
@@ -52,13 +52,13 @@ aside
 .help
 .field
 
-\* Bulma Grid \*
+\* Befly Grid \*
 .column
 .columns
 .columns.is-variable
 .tile
 
-\* Bulma Helpers \*
+\* Befly Helpers \*
 .has-text-primary
 .has-text-primary-light
 .has-text-primary-dark
@@ -66,5 +66,5 @@ aside
 .has-background-primary-light
 .has-background-primary-dark
 
-\* Bulma Utilities \*
+\* Befly Utilities \*
 @keyframes spinAround

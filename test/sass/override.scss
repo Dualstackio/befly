@@ -5,11 +5,11 @@
 
 $blue: #00f;
 
-$purple: #8A4D76;
-$pink: #FA7C91;
+$purple: #8a4d76;
+$pink: #fa7c91;
 $brown: #757763;
-$beige-light: #D0D1CD;
-$beige-lighter: #EFF0EB;
+$beige-light: #d0d1cd;
+$beige-lighter: #eff0eb;
 
 $grey-dark: $brown;
 $grey-light: $beige-light;
@@ -26,11 +26,25 @@ $lavender-light: hsl(240, 56%, 98%);
 $lavender-dark: hsl(240, 31%, 24%);
 
 $custom-colors: (
-  "lime": (lime),
-  "tomato": (tomato, white),
-  "orange": ($orange, $orange-invert, $orange-light),
-  "lavender": ($lavender, $lavender-invert, $lavender-light, $lavender-dark)
+  "lime": (
+    lime,
+  ),
+  "tomato": (
+    tomato,
+    white,
+  ),
+  "orange": (
+    $orange,
+    $orange-invert,
+    $orange-light,
+  ),
+  "lavender": (
+    $lavender,
+    $lavender-invert,
+    $lavender-light,
+    $lavender-dark,
+  ),
 );
 
-// Import the rest of Bulma
-@import "../../bulma";
+// Import the rest of befly
+@import "../../befly";

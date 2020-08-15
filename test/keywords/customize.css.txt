@@ -1,6 +1,6 @@
 https://fonts.googleapis.com/css?family=Nunito:400,700
 
-\* Bulma Base \*
+\* Befly Base \*
 minireset.css
 html
 article
@@ -14,7 +14,7 @@ aside
 .container
 .title
 
-\* Bulma Form \*
+\* Befly Form \*
 .checkbox
 .radio
 .file
@@ -28,5 +28,5 @@ aside
 .help
 .field
 
-\* Bulma Utilities \*
+\* Befly Utilities \*
 @keyframes spinAround

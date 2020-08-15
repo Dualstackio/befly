@@ -1,19 +1,19 @@
 {
-  "name": "bulma",
-  "version": "0.9.0",
-  "homepage": "https://bulma.io",
+  "name": "befly",
+  "version": "0.1.0",
+  "homepage": "https://befly.dualstack.io",
   "author": {
-    "name": "Jeremy Thomas",
-    "email": "bbxdesign@gmail.com",
-    "url": "https://jgthms.com"
+    "name": "Timo Zacherl",
+    "email": "t.zacherl@icloud.com",
+    "url": "https://timozacherl.com"
   },
-  "description": "Modern CSS framework based on Flexbox",
-  "main": "bulma.sass",
-  "unpkg": "css/bulma.css",
-  "style": "bulma/css/bulma.min.css",
+  "description": "Modern CSS framework based on Bulma and Flexbox",
+  "main": "befly.sass",
+  "unpkg": "css/befly.css",
+  "style": "befly/css/befly.min.css",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jgthms/bulma.git"
+    "url": "git+https://github.com/dualstackio/befly.git"
   },
   "license": "MIT",
   "keywords": [
@@ -24,7 +24,7 @@
     "framework"
   ],
   "bugs": {
-    "url": "https://github.com/jgthms/bulma/issues"
+    "url": "https://github.com/dualstackio/befly/issues"
   },
   "devDependencies": {
     "autoprefixer": "^9.8.0",
@@ -49,7 +49,7 @@
   "files": [
     "css",
     "sass",
-    "bulma.sass",
+    "befly.sass",
     "LICENSE",
     "README.md"
   ]
